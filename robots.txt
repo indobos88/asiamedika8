@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /fitur-scatter-hitam-dalam-mahjong-ways.html
-	/strategi-menang-di-mahjong-ways.html
-	/memaksimalkan-scatter-hitam-di-mahjong-ways.html
-	/permainan-slot-scatter-hitam-mahjong-ways.html
-	/keajaiban-scatter-hitam-yang-harus-anda-coba.html
-
-# Sitemap lokasi
-Sitemap: https://indobos88.github.io/asiamedika8/sitemap.xml
